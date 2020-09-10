@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![banner_image](https://github.com/ecchi1234/ecchi1234/blob/master/banner.png)
+
+
