@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on FPT Information System
+- 🔭 I’m currently working at FPT Information System
 - 🌱 I’m currently learning ReactJS, ASP.NET Core
 - 👯 I’m dreaming of becoming Senior Software Engineer
 - ⚡ Fun fact: ecchi mean E-ngineer, C-omputer and Chi - just my name 
