@@ -4,7 +4,6 @@
 - 🔭 I’m currently working at FPT Information System
 - 🌱 I’m currently learning ReactJS, ASP.NET Core
 - 👯 I’m dreaming of becoming Senior Software Engineer
-- ⚡ Fun fact: ecchi mean E-ngineer, C-omputer and Chi - just my name 
 
 
 ![banner_image](https://github.com/ecchi1234/ecchi1234/blob/master/banner.png)
