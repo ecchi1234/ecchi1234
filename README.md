@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working at FPT Information System
-- 🌱 I’m currently learning ReactJS, ASP.NET Core
+- 🌱 I’m currently learning ReactJS, ASP.NET Core, NodeJS
 - 👯 I’m dreaming of becoming Senior Software Engineer
 
 
